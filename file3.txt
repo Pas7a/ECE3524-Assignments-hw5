@@ -1,7 +1,7 @@
-Wine closet inventory: 
+Inventory of books:
 
 
-There are 55 bottles of red wines on the first shelf.
+There are 55 books on the first shelf.
 
 
-There sare 45 bottles of white windes on the 2nd shelf.
+There are 35 books on the 2nd shelf.
