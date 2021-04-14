@@ -1,7 +1,7 @@
 Inventory of books:
 
 
-There are 55 books on the first shelf.
+There are no books on the first shelf.
 
 
-There are 35 books on the 2nd shelf.
+There are 100 books on the 2nd shelf.
