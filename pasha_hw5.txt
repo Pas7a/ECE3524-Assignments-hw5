@@ -1,3 +1,10 @@
 Git command is :
 
  git status
+ 
+ What is the git command to view the commit history of thisrepository?(15p)
+ git log
+ 
+ Find who (first name, last name) wrote the commit with the short hash f65628c?
+ git show f65628c
+Rohit-Rannavre
